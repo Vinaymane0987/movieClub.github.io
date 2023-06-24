@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDxVxT8ybnrweAv9QZbpPCHplNNh1SU-C0",
-  authDomain: "movieclub-660ee.firebaseapp.com",
-  projectId: "movieclub-660ee",
-  storageBucket: "movieclub-660ee.appspot.com",
-  messagingSenderId: "1026345112764",
-  appId: "1:1026345112764:web:a1b16517e20d8ee8feacb9"
+  apiKey: "AIzaSyAXtC5OyodLJDqMODF4hd3z0TxbhhvZkWY",
+  authDomain: "moviesclub-2644b.firebaseapp.com",
+  projectId: "moviesclub-2644b",
+  storageBucket: "moviesclub-2644b.appspot.com",
+  messagingSenderId: "15530518490",
+  appId: "1:15530518490:web:18de3672e7f7a1696302e3"
 };
 
 // Initialize Firebase
